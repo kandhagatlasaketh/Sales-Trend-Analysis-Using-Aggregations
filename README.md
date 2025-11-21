@@ -1,4 +1,4 @@
-Overview
+Overview:
 This project analyzes online sales data using SQL to understand monthly business performance. It calculates monthly revenue, order volume, and identifies the top 3 high-performing months using aggregation and grouping techniques.
 
  Dataset Information:
